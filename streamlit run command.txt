@@ -1,0 +1,1 @@
+streamlit run "C:\aa projects\machine learning\Saved models\multiple models for webpage\multiple_prediction_system_we_page.py"
